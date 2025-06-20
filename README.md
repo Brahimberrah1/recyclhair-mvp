@@ -15,7 +15,7 @@ This repository contains the Minimum Viable Product (MVP) for the Recycl'Hair mo
 - **Notifications**: Firebase Cloud Messaging
 
 ## Setup Instructions
-1. Clone the repository: `git clone https://github.com/your-username/recyclhair-mvp.git`
+1. Clone the repository: `git clone https://github.com/Brahimberrah1/recyclhair-mvp.git`
 2. Set up the frontend (Flutter):
    - Navigate to `frontend/`
    - Run `flutter pub get` to install dependencies
