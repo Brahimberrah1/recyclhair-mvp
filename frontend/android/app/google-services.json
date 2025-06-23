@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "266393823791",
+    "project_id": "recyclhairmvp",
+    "storage_bucket": "recyclhairmvp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:266393823791:android:cb4f151f2be1a2d16574da",
+        "android_client_info": {
+          "package_name": "com.example.jemputah_app_driver_new"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAG1R-lLt6fVjJhahh0GfCNgQtTTP3DS10"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
